@@ -1,0 +1,6 @@
+.env
+*.db
+admin_chat.txt
+__pycache__/
+.venv/
+.idea/
